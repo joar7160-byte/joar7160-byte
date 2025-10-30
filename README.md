@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Azure mini SOC and Honeynet](https://github.com/ joshmadakor0/threat-hunting-scenario-tor)**
+- **[Azure mini SOC and Honeynet](https://github.com/joar7160-byte/Honeypot-VM-Attack-Map)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 
