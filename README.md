@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joar7160-byte/Vulnerability-Management-Program-Implementation/tree/main)**
-- **[Windows 11 STIGS](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Windows 11 STIGS](https://github.com/joar7160-byte/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
