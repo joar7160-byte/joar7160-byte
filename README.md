@@ -7,6 +7,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [VPN Configuration Lab](https://github.com/joar7160-byte/vpn-configuration-lab)
 - [Ticketing System + Microsoft 365 Administration Lab](https://github.com/joar7160-byte/ticketing-m365-lab)
 
+## ☁️ Cloud Infrastructure & Administration
+- [Azure Infrastructure and Access Management Lab](https://github.com/joar7160-byte/azure-infrastructure-access-management)
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joar7160-byte/Vulnerability-Management-Program-Implementation/tree/main)**
