@@ -3,12 +3,14 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## 🖥️ IT Infrastructure & Systems Administration
-- [Active Directory Identity & Access Lab](https://github.com/joar7160-byte/active-directory-lab)
-- [VPN Configuration Lab](https://github.com/joar7160-byte/vpn-configuration-lab)
-- [Ticketing System + Microsoft 365 Administration Lab](https://github.com/joar7160-byte/ticketing-m365-lab)
+
+- **[Active Directory Identity & Access Lab](https://github.com/joar7160-byte/active-directory-lab)**
+- **[VPN Configuration Lab](https://github.com/joar7160-byte/vpn-configuration-lab)**
+- **[Ticketing System + Microsoft 365 Administration Lab](https://github.com/joar7160-byte/ticketing-m365-lab)**
 
 ## ☁️ Cloud Infrastructure & Administration
-- [Azure Infrastructure and Access Management Lab](https://github.com/joar7160-byte/azure-infrastructure-access-management)
+
+- **[Azure Infrastructure and Access Management Lab](https://github.com/joar7160-byte/azure-infrastructure-access-management)**
 
 ## ⚠️ Vulnerability Management Projects
 
