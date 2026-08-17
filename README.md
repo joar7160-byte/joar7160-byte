@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Infrastructure & Administration
 
-- **[Azure Infrastructure and Access Management Lab](https://github.com/joar7160-byte/azure-infrastructure-access-management)**
+- **[Azure Infrastructure and Access Management Lab](https://github.com/joar7160-byte/Azure-Infrastructure-and-Access-Management)**
 
 ## ⚠️ Vulnerability Management Projects
 
