@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Azure Infrastructure and Access Management Lab](https://github.com/joar7160-byte/Azure-Infrastructure-and-Access-Management)**
 - **[Azure Network Isolation and Secure Storage Lab](https://github.com/joar7160-byte/azure-network-isolation-storage-lab)**
-- **[Monitoring, Backup, and Recovery Lab](./azure-monitoring-backup-recovery-lab)**
+- **[Monitoring, Backup, and Recovery Lab](./azure-monitoring-backup-recovery)**
 
 ## ⚠️ Vulnerability Management Projects
 
