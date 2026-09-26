@@ -23,6 +23,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Azure mini SOC and Honeynet](https://github.com/joar7160-byte/Honeypot-VM-Attack-Map)**
+- **[Hydroficient IoT Cyber Defense (Grand Marina)](https://github.com/joar7160-byte/hydroficient-iot-cyber-defense)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joar7160-byte/threat-hunting-scenario-tor)**
 - **[Threat Hunting Report (Helpdesk)](https://github.com/joar7160-byte/threat-hunting-scenario-helpdesk)**
 - **[Threat Hunting Report (Export/Import Company)](https://github.com/joar7160-byte/threat-hunting-Import-Export-Compromise)**
