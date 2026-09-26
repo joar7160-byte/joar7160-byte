@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ Cloud Infrastructure & Administration
 
+- **[Uptime Kuma CI/CD Pipeline](https://github.com/joar7160-byte/uptime-kuma-azure-cicd)**
 - **[Azure Infrastructure and Access Management Lab](https://github.com/joar7160-byte/Azure-Infrastructure-and-Access-Management)**
 - **[Azure Network Isolation and Secure Storage Lab](https://github.com/joar7160-byte/azure-network-isolation-storage-lab)**
 - **[Monitoring, Backup, and Recovery Lab](https://github.com/joar7160-byte/Azure-Monitoring-Backup-and-Recovery)**
